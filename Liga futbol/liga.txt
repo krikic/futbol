@@ -1,0 +1,5 @@
+EQ	madrid
+EQ	valencia
+JU	pepe	madrid
+JU	casillas	madrid
+PA	valencia	1	madrid	4
